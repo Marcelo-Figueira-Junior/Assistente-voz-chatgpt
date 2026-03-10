@@ -14,3 +14,10 @@ Python
 Whisper
 OpenAI API
 gTTS
+
+# Projeto de Inteligência Artificial
+
+Speech Recognition
+OpenAI Whisper
+ChatGPT API
+Text-to-Speech
